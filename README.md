@@ -1,5 +1,7 @@
 ### Hi there, I'm Coder.MrX <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![](https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45)](https://github.com/MrTukhtaboyev/readme-typing-svg)
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -13,8 +15,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-[![](https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45)](https://github.com/MrTukhtaboyev/readme-typing-svg)
 
 
 [![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)](https://github.com/aloneboy03)
