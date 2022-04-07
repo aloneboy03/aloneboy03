@@ -14,6 +14,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+[![](https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45)](https://github.com/MrTukhtaboyev/readme-typing-svg)
+
+
 [![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)](https://github.com/aloneboy03)
 
 ## 💼 Skills
