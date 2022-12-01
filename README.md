@@ -11,6 +11,23 @@
                 src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/ValisherBotirov -->
+<p align="center">
+    <a href="https://github.com/aloneboy03">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    
+    <a href="https://t.me/Khurboev_3">
+        <img alt="Telegram"
+             src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ 
+    <a href="https://www.facebook.com/profile.php?id=100057462857963">
+        <img alt="Facebook"
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</p>
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
