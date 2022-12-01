@@ -6,7 +6,7 @@
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/ValisherBotirov/readme-typing-svg">
+    <a href="https://github.com/aloneboy03/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
@@ -18,6 +18,10 @@
     <a href="https://github.com/aloneboy03">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    
+    <a href="https://t.me/Khurboev_3">
+  <img align="left" alt="" width="64px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
+</a>
 </p>
 
 **languages and tools:**  
@@ -93,6 +97,17 @@
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/aloneboy03?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/aloneboy03"/></a>
+  <a href="https://github.com/aloneboy03?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/aloneboy03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/aloneboy03">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=aloneboy03&style=for-the-badge"/></a>
+</p>
 
 <br>
 
