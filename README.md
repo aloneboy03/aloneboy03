@@ -19,9 +19,7 @@
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
         
-    <a href="https://t.me/khurboev_3">
-  <img align="left" alt="Abdulazizbek" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
-</a>
+    <a href="https://t.me/khurboev_3"><img align="left" alt="Abdulazizbek" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/></a>
 </p>
 
 **languages and tools:**  
