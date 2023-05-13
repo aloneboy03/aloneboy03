@@ -21,7 +21,7 @@
     <a href="https://t.me/khurboev_3">
         <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100057462857963">
+    <a align="center" href="https://www.facebook.com/profile.php?id=100057462857963">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
