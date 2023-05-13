@@ -24,6 +24,7 @@
     </a>
     <a href="https://t.me/khurboev_3">
         <img alt="My telegram" width="35px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="28px"/>
+        <span>Telegram</span>
     </a>
 </p>
 
