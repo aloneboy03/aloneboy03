@@ -16,10 +16,15 @@
 <p align="center">
     <a href="https://github.com/aloneboy03">
         <img alt="Github"
-             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
     <a href="https://www.facebook.com/profile.php?id=100057462857963">
         <img alt="Facebook"
-             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+    <a href="https://t.me/khurboev_3">
+        <img align="left" alt="" width="32px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="25px"/>
+    </a>
 </p>
 
 **languages and tools:**  
