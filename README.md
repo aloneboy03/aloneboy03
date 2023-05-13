@@ -23,7 +23,7 @@
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://t.me/khurboev_3">
-        <p>Telegram</p>
+        <b>Telegram</b>
         <img alt="My telegram" width="35px" src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" height="28px"/>
     </a>
 </p>
